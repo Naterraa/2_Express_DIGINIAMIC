@@ -50,10 +50,6 @@ const getBookById = (id) => {
 const createBook = (bookData) => {
     const { titre, auteur, annee_publication, genre, disponible } = bookData;
 
-    if (!titre || !auteur) {
-        throw new Error('Le titre et l\'auteur sont requis');
-    }
-
     const newBook = {
         id: nextId++,
         titre: titre.trim(),

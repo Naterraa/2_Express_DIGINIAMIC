@@ -5,6 +5,8 @@ const app = express();
 const PORT = 3006;
 
 app.use(express.json());
+
+// /books
 app.use('/books', bookRouter);
 
 app.listen(PORT, () => {
