@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1767620719331" clover="3.2.0">
+  <project timestamp="1767620719331" name="All files">
+    <metrics statements="82" coveredstatements="55" conditionals="38" coveredconditionals="27" methods="13" coveredmethods="10" elements="133" coveredelements="92" complexity="0" loc="82" ncloc="82" packages="1" files="3" classes="3"/>
+    <file name="authService.js" path="C:\Users\rddin\Desktop\2_Express_DIGINIAMIC\Exercices\Ex8_Correction\Partie2\service\authService.js">
+      <metrics statements="27" coveredstatements="0" conditionals="10" coveredconditionals="0" methods="3" coveredmethods="0"/>
+      <line num="1" count="0" type="stmt"/>
+      <line num="2" count="0" type="stmt"/>
+      <line num="3" count="0" type="stmt"/>
+      <line num="6" count="0" type="stmt"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="20" count="0" type="stmt"/>
+      <line num="21" count="0" type="stmt"/>
+      <line num="24" count="0" type="stmt"/>
+      <line num="30" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="31" count="0" type="stmt"/>
+      <line num="35" count="0" type="stmt"/>
+      <line num="41" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="42" count="0" type="stmt"/>
+      <line num="46" count="0" type="stmt"/>
+      <line num="54" count="0" type="stmt"/>
+      <line num="56" count="0" type="stmt"/>
+      <line num="68" count="0" type="stmt"/>
+      <line num="69" count="0" type="stmt"/>
+      <line num="72" count="0" type="stmt"/>
+      <line num="78" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="79" count="0" type="stmt"/>
+      <line num="83" count="0" type="stmt"/>
+      <line num="85" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="86" count="0" type="stmt"/>
+      <line num="90" count="0" type="stmt"/>
+      <line num="92" count="0" type="stmt"/>
+      <line num="103" count="0" type="stmt"/>
+    </file>
+    <file name="bookService.js" path="C:\Users\rddin\Desktop\2_Express_DIGINIAMIC\Exercices\Ex8_Correction\Partie2\service\bookService.js">
+      <metrics statements="40" coveredstatements="40" conditionals="22" coveredconditionals="21" methods="7" coveredmethods="7"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="2" type="stmt"/>
+      <line num="10" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="17" count="4" type="stmt"/>
+      <line num="19" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="23" count="3" type="stmt"/>
+      <line num="32" count="3" type="stmt"/>
+      <line num="35" count="1" type="stmt"/>
+      <line num="36" count="3" type="stmt"/>
+      <line num="37" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="38" count="1" type="stmt"/>
+      <line num="41" count="2" type="stmt"/>
+      <line num="43" count="2" type="cond" truecount="1" falsecount="1"/>
+      <line num="44" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="45" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="46" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="47" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="49" count="2" type="stmt"/>
+      <line num="50" count="2" type="stmt"/>
+      <line num="53" count="1" type="stmt"/>
+      <line num="54" count="2" type="stmt"/>
+      <line num="55" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="56" count="1" type="stmt"/>
+      <line num="59" count="1" type="stmt"/>
+      <line num="60" count="1" type="stmt"/>
+      <line num="65" count="1" type="stmt"/>
+      <line num="66" count="1" type="stmt"/>
+      <line num="73" count="1" type="stmt"/>
+      <line num="74" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="75" count="2" type="stmt"/>
+      <line num="77" count="1" type="stmt"/>
+      <line num="86" count="1" type="stmt"/>
+    </file>
+    <file name="libraryService.js" path="C:\Users\rddin\Desktop\2_Express_DIGINIAMIC\Exercices\Ex8_Correction\Partie2\service\libraryService.js">
+      <metrics statements="15" coveredstatements="15" conditionals="6" coveredconditionals="6" methods="3" coveredmethods="3"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="3" type="stmt"/>
+      <line num="15" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="19" count="2" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="23" count="8" type="stmt"/>
+      <line num="25" count="8" type="cond" truecount="4" falsecount="0"/>
+      <line num="26" count="5" type="stmt"/>
+      <line num="29" count="3" type="stmt"/>
+      <line num="34" count="3" type="stmt"/>
+      <line num="37" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

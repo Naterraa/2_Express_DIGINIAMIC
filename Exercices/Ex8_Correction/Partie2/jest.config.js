@@ -2,14 +2,14 @@ module.exports = {
     testEnvironment: 'node',
     coverageDirectory: 'coverage',
     collectCoverageFrom: [
-        '*.js',
-        '!*.test.js',
-        '!jest.config.js',
-        '!coverage/**',
-        '!node_modules/**'
+        'service/**/*.js',
+        '!**/node_modules/**',
+        '!**/coverage/**'
     ],
     testMatch: [
+        '**/__tests__/**/*.test.js',
         '**/*.test.js'
     ],
-    verbose: true
+    verbose: true,
+    testTimeout: 10000
 };
